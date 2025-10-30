@@ -20,3 +20,6 @@ This script uses FFMPEG to first create stills and then an image grid. This scri
 Use at your own risk; no warranty whatsoever.
 Might break in future releases of Jellyfin.
 Probably not the most efficient way to do this, but I am no FFMPEG expert, and this works
+
+## Credits
+Pretty much all the credit belongs to the FFMPEG team. Thank you for your incredible work and dedication!
